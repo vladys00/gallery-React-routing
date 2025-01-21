@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "title": "Starry Night",
+      "description": "A famous painting by Vincent van Gogh, depicting a night sky filled with swirling clouds and bright stars.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+      "id": 2,
+      "title": "Mona Lisa",
+      "description": "An iconic portrait by Leonardo da Vinci, known for its enigmatic smile and detailed background.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/800px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "id": 3,
+      "title": "The Persistence of Memory",
+      "description": "A surrealist painting by Salvador Dalí, featuring melting clocks in a dreamlike landscape.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/The_Persistence_of_Memory.jpg/800px-The_Persistence_of_Memory.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+    },
+    {
+      "id": 4,
+      "title": "The Scream",
+      "description": "A haunting expressionist artwork by Edvard Munch, capturing a figure in distress against a vivid sky.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/800px-The_Scream.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    },
+    {
+      "id": 5,
+      "title": "Girl with a Pearl Earring",
+      "description": "A captivating portrait by Johannes Vermeer, often referred to as the 'Mona Lisa of the North.'",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+    },
+    {
+      "id": 6,
+      "title": "The Birth of Venus",
+      "description": "A Renaissance masterpiece by Sandro Botticelli, depicting the goddess Venus emerging from the sea.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    },
+    {
+      "id": 7,
+      "title": "The Night Watch",
+      "description": "A dramatic group portrait by Rembrandt, showcasing a militia company in action.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Nightwatch_by_Rembrandt.jpg/800px-The_Nightwatch_by_Rembrandt.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Rembrandt"
+    },
+    {
+      "id": 8,
+      "title": "The Kiss",
+      "description": "A romantic painting by Gustav Klimt, featuring a couple embraced in a golden, decorative style.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gustav_Klimt_016.jpg/800px-Gustav_Klimt_016.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Gustav_Klimt"
+    },
+    {
+      "id": 9,
+      "title": "Guernica",
+      "description": "A powerful anti-war painting by Pablo Picasso, depicting the horrors of the bombing of Guernica.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/PicassoGuernica.jpg/800px-PicassoGuernica.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    },
+    {
+      "id": 10,
+      "title": "The Last Supper",
+      "description": "A monumental fresco by Leonardo da Vinci, capturing the moment Jesus announces his betrayal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg/800px-%C3%9Altima_Cena_-_Da_Vinci_5.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "id": 11,
+      "title": "The School of Athens",
+      "description": "A fresco by Raphael, depicting philosophers and scholars in a grand architectural setting.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Raffaello_Scuola_di_Atene.jpg/800px-Raffaello_Scuola_di_Atene.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Raphael"
+    },
+    {
+      "id": 12,
+      "title": "Water Lilies",
+      "description": "A series of paintings by Claude Monet, capturing the beauty of his garden pond in Giverny.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Claude_Monet%2C_Water_Lilies%2C_1916.jpg/800px-Claude_Monet%2C_Water_Lilies%2C_1916.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Claude_Monet"
+    },
+    {
+      "id": 13,
+      "title": "The Creation of Adam",
+      "description": "A fresco by Michelangelo, depicting the biblical creation story on the Sistine Chapel ceiling.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/800px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Michelangelo"
+    },
+    {
+      "id": 14,
+      "title": "The Garden of Earthly Delights",
+      "description": "A triptych by Hieronymus Bosch, filled with surreal and fantastical imagery.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jheronimus_Bosch_051.jpg/800px-Jheronimus_Bosch_051.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
+    },
+    {
+      "id": 15,
+      "title": "The Thinker",
+      "description": "A bronze sculpture by Auguste Rodin, depicting a man deep in thought.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Auguste_Rodin%2C_Le_Penseur%2C_1902-1904.jpg/800px-Auguste_Rodin%2C_Le_Penseur%2C_1902-1904.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+    },
+    {
+      "id": 16,
+      "title": "The Great Wave off Kanagawa",
+      "description": "A famous woodblock print by Hokusai, showcasing a towering wave and Mount Fuji in the background.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/800px-The_Great_Wave_off_Kanagawa.jpg",
+      "biographyUrl": "https://en.wikipedia.org/wiki/Hokusai"
+    }
+  ]

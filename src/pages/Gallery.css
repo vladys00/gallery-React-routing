@@ -1,0 +1,8 @@
+img{
+object-fit: contain;
+height: 240px;
+}
+.card, .p-3{
+height: 400px;
+background-color: rgba(251, 239, 223, 0.835);
+}
